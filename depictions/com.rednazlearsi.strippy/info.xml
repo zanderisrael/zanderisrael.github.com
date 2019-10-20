@@ -1,10 +1,10 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
+	<id>com.rednazlearsi.strippy</id>
+	<name>Strippy</name>
 	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -31,9 +31,8 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
+		<change>First release</change>
 		<change>It has feature 1</change>
-		<change>It has feature 2</change>
 	</changelog>
 	<links>
 		<link>
