@@ -1,0 +1,16 @@
+Package: com.zanderisrael.strippy
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Reznaz Learsi
+Installed-Size: 308
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debs/com.zanderisrael.strippy_0.0.1_iphoneos-arm.deb
+Size: 28056
+MD5sum: d4d34d3692ce30e09e3164aa8269ae1e
+SHA1: b519f9f6378e66d9f5d47a524b8a67185931d00d
+SHA256: 6229828d12f7b08dc52ecee09d7b7434093e483601198d266ddff6b92318f0d0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Reznaz Learsi
+Name: Strippy
+
